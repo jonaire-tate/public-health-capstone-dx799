@@ -5,14 +5,14 @@
 ## Project Overview
 This repository contains weekly Jupyter Notebook analyses for the 
 DX799 Data Science Capstone Part 1. The project applies machine 
-learning techniques to the BRFSS 2015 Diabetes Dataset to identify 
-demographic and behavioral factors associated with diabetes prevalence 
-in the United States.
+learning techniques to investigate diabetes prevalence in the United 
+States at two levels: state-level socioeconomic factors and 
+individual-level behavioral health indicators.
 
-## Dataset
-- **Source:** Behavioral Risk Factor Surveillance System (BRFSS) 2015
-- **Dataset:** diabetes_binary_5050split_health_indicators_BRFSS2015.csv
-- **Rows:** 70,692 | **Features:** 21 | **Target:** Diabetes_binary
+## Data Sources
+- **Kaiser Family Foundation** – Adults with Diagnosed Diabetes by State: https://www.kff.org/state-health-policy-data/state-indicator/adults-with-diabetes-by-age/
+- **U.S. Census Bureau** – American Community Survey (ACS) via Kaggle: https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data
+- **CDC BRFSS 2015** – Diabetes Health Indicators via Kaggle: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 
 ## Weekly Notebooks
 | Week | Topic | Notebook |
