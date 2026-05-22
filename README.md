@@ -18,6 +18,7 @@ in the United States.
 | Week | Topic | Notebook |
 |------|-------|---------|
 | 1 | Linear Regression: Polynomial Terms, Multicollinearity, Interaction Terms | DX_799_Week1_LinearRegression.ipynb |
+| 2 | Linear Regression Part 2: Lasso, Ridge, and Elastic Net Regression | DX799_Week2_LassoRidgeElasticNet.ipynb |
 
 ## Tools
 Python, Jupyter Notebooks, pandas, scikit-learn, statsmodels, 
