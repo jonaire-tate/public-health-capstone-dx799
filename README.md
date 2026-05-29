@@ -19,6 +19,7 @@ individual-level behavioral health indicators.
 |------|-------|---------|
 | 1 | Linear Regression: Polynomial Terms, Multicollinearity, Interaction Terms | DX_799_Week1_LinearRegression.ipynb |
 | 2 | Linear Regression Part 2: Lasso, Ridge, and Elastic Net Regression | DX799_Week2_LassoRidgeElasticNet.ipynb |
+| 3 | Linear Regression Part 3: Forward/Backward Selection, PCR, PLSR | DX799_Week3_ForwardBackwardPCRPLSR.ipynb |
 
 ## Tools
 Python, Jupyter Notebooks, pandas, scikit-learn, statsmodels, 
