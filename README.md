@@ -21,7 +21,9 @@ individual-level behavioral health indicators.
 | 2 | Linear Regression Part 2: Lasso, Ridge, and Elastic Net Regression | DX799_Week2_LassoRidgeElasticNet.ipynb |
 | 3 | Linear Regression Part 3: Forward/Backward Selection, PCR, PLSR | DX799_Week3_ForwardBackwardPCRPLSR.ipynb |
 | 4 | Logistic Regression and Feature Scaling | DX799_Week4_LogisticRegression.ipynb |
+| 5 | Support Vector Machines, Kernel Trick, and Regularization | DX799_Week5_SVM.ipynb |
+| 6 | Decision Trees and Random Forests | DX799_Week6_DecisionTreesRandomForests.ipynb |
 
 ## Tools
-Python, Jupyter Notebooks, pandas, scikit-learn, statsmodels, 
+Python, Jupyter Notebooks, pandas, scikit-learn, statsmodels, numpy,
 matplotlib, seaborn
