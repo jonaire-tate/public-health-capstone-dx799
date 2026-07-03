@@ -23,6 +23,7 @@ individual-level behavioral health indicators.
 | 4 | Logistic Regression and Feature Scaling | DX799_Week4_LogisticRegression.ipynb |
 | 5 | Support Vector Machines, Kernel Trick, and Regularization | DX799_Week5_SVM.ipynb |
 | 6 | Decision Trees and Random Forests | DX799_Week6_DecisionTreesRandomForests.ipynb |
+| 7 | KNN | DX799_Week8_KNN.ipynb |
 
 ## Tools
 Python, Jupyter Notebooks, pandas, scikit-learn, statsmodels, numpy,
