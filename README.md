@@ -25,6 +25,7 @@ individual-level behavioral health indicators.
 | 6 | Decision Trees and Random Forests | DX799_Week6_DecisionTreesRandomForests.ipynb |
 | 8 | KNN | DX799_Week8_KNN.ipynb |
 | 9 | Gradient Boost | DX799_Week9_GradientBoost.ipnyb |
+| 10 | K-Means | DX799_Week10_KMeans.ipynb
 
 ## Tools
 Python, Jupyter Notebooks, pandas, scikit-learn, statsmodels, numpy,
