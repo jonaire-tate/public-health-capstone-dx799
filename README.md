@@ -28,6 +28,7 @@ individual-level behavioral health indicators.
 | 10 | K-Means | DX799_Week10_KMeans.ipynb |
 | 11 | DBSCAN and Hierarchical Agglomerative Clustering | DX799_Week11_DBSCAN_HAC.ipynb |
 | 13 | Naive Bayes | DX799_Week13_NaiveBayes.ipynb |
+| 14 | Gaussian Mixture Models | DX799_Week14_GMM.ipynb |
 
 ## Tools
 Python, Jupyter Notebooks, pandas, scikit-learn, statsmodels, numpy,
